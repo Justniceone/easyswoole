@@ -1,0 +1,54 @@
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:16:01 $29401.0]	WARNING	swManager_check_exit_status: worker#1[pid=29412] abnormal exit, status=255, signal=0
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:16:45 $29401.0]	WARNING	swManager_check_exit_status: worker#1[pid=32424] abnormal exit, status=255, signal=0
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:17:09 $29401.0]	WARNING	swManager_check_exit_status: worker#2[pid=29413] abnormal exit, status=255, signal=0
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:21:28 $29401.0]	WARNING	swManager_check_exit_status: worker#1[pid=32427] abnormal exit, status=255, signal=0
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:22:29 $29401.0]	WARNING	swManager_check_exit_status: worker#2[pid=32428] abnormal exit, status=255, signal=0
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:22:53 $29401.0]	WARNING	swManager_check_exit_status: worker#1[pid=32434] abnormal exit, status=255, signal=0
+[2019-04-10 09:24:21 $29401.0]	INFO	Server is reloading task workers now
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:24:32 $29401.0]	WARNING	swManager_check_exit_status: worker#1[pid=32440] abnormal exit, status=255, signal=0
+[2019-04-10 09:26:52 #29400.1]	INFO	Server is shutdown now
+PHP Fatal error:  Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+
+Fatal error: Cannot declare class App\HttpController\Index, because the name is already in use in /var/www/easyswoole/App/HttpController/User.php on line 36
+[2019-04-10 09:27:08 $32462.0]	WARNING	swManager_check_exit_status: worker#1[pid=32473] abnormal exit, status=255, signal=0
+PHP Fatal error:  Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+
+Fatal error: Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+[2019-04-10 09:34:16 $32462.0]	WARNING	swManager_check_exit_status: worker#2[pid=32474] abnormal exit, status=255, signal=0
+PHP Fatal error:  Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+
+Fatal error: Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+[2019-04-10 09:37:38 $32462.0]	WARNING	swManager_check_exit_status: worker#1[pid=32480] abnormal exit, status=255, signal=0
+[2019-04-10 09:38:19 $32462.0]	INFO	Server is reloading task workers now
+PHP Fatal error:  Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+
+Fatal error: Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+[2019-04-10 09:38:30 $32462.0]	WARNING	swManager_check_exit_status: worker#3[pid=32475] abnormal exit, status=255, signal=0
+[2019-04-10 09:39:40 $32462.0]	INFO	Server is reloading task workers now
+PHP Fatal error:  Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+
+Fatal error: Class 'EasySwoole\Core\Http\AbstractInterface\Controller' not found in /var/www/easyswoole/App/HttpController/Hello.php on line 7
+[2019-04-10 09:39:49 $32462.0]	WARNING	swManager_check_exit_status: worker#3[pid=32537] abnormal exit, status=255, signal=0
+[2019-04-10 09:46:32 #32461.1]	INFO	Server is shutdown now
+[2019-04-10 09:47:15 $32557.0]	WARNING	swManager_check_exit_status: worker#1[pid=32568] abnormal exit, status=255, signal=0
