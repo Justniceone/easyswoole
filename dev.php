@@ -29,7 +29,7 @@ return [
         'HOST' => '127.0.0.1',
         'PORT' => 9500,
         'USER' => 'root',
-        'PASSWORD' =>'123456'
+        'PASSWORD' => '123456'
     ],
     'FAST_CACHE' => [
         'PROCESS_NUM' => 0,
@@ -38,5 +38,27 @@ return [
     'DISPLAY_ERROR' => true,
     'PHAR' => [
         'EXCLUDE' => ['.idea', 'Log', 'Temp', 'easyswoole', 'easyswoole.install']
-    ]
+    ],
+
+    /*################ REDIS CONFIG ##################*/
+    'MYSQL' => [
+        'host' => '127.0.0.1',
+        'port' => '3306',
+        'user' => 'root',
+        'timeout' => '5',
+        'charset' => 'utf8mb4',
+        'password' => 'lxctkking613',
+        'database' => 'litemall',
+        'POOL_MAX_NUM' => '20',
+        'POOL_TIME_OUT' => '0.1',
+    ],
+    /*################ REDIS CONFIG ##################*/
+    'REDIS' => [
+        'host' => '127.0.0.1',
+        'port' => '6379',
+        'auth' => '',
+        'POOL_MAX_NUM' => '20',
+        'POOL_MIN_NUM' => '5',
+        'POOL_TIME_OUT' => '0.1',
+    ],
 ];

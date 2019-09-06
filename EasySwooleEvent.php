@@ -13,6 +13,7 @@ use EasySwoole\EasySwoole\Swoole\EventRegister;
 use EasySwoole\EasySwoole\AbstractInterface\Event;
 use EasySwoole\Http\Request;
 use EasySwoole\Http\Response;
+use EasySwoole\Component\Di;
 
 class EasySwooleEvent implements Event
 {
@@ -26,6 +27,14 @@ class EasySwooleEvent implements Event
     public static function mainServerCreate(EventRegister $register)
     {
         // TODO: Implement mainServerCreate() method.
+        Di::getInstance()->set('MYSQL', \MysqliDb::class, Array(
+                'host' => '127.0.0.1',
+                'username' => 'root',
+                'password' => 'lxctkking613',
+                'db' => 'litemall',
+                'port' => 3306,
+                'charset' => 'utf8')
+        );
     }
 
     public static function onRequest(Request $request, Response $response): bool
